@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308425983090",
+    "project_id": "retos-swinger-edition",
+    "storage_bucket": "retos-swinger-edition.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308425983090:android:7aa3c2e677ab91ebc72eeb",
+        "android_client_info": {
+          "package_name": "com.mycompany.retosswingeredition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308425983090-a3jlktup10ajnmch825psl4qgkgl64in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoPmmnX13dwsJheq1_uok758Dcja6Xob0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308425983090-a3jlktup10ajnmch825psl4qgkgl64in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
